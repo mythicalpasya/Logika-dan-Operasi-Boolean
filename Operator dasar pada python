@@ -1,0 +1,15 @@
+#memberi nilai variabel
+A=25
+B=5
+
+#membuat output dari operator dasar
+print(A+B)  # untuk operasi penjumlahan              (+)
+print(A-B)  # untuk operasi pengurangan              (-)
+print(A/B)  # untuk operasi pembagian                (/) (hasil hanya merupakan bilangan desimal)
+print(A//B) # untuk operasi pembagian               (//) (hasil hanya berupa bilangan bulat)
+print(A*B)  # untuk operasi perkalian                (*)
+print(A%B)  # untuk mencari sisa operasi pembagian   (%)
+
+contoh: 
+print(A+B)
+25+5=30
