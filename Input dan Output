@@ -1,0 +1,14 @@
+#membuat variabel yang nilainya dapat diinput dan tersimpan pada variabelnya
+A = input("masukkan nilai input : ")
+B = input("masukkan nilai input : ")
+
+#untuk mengeluarkan nilai dari variabel input
+print(A)
+print(B)
+
+contohnya:
+A = input("masukkan nilai input : ")                <<-- masukkan perintah
+maka akan muncul tulisan: "masukkan nilai input: "  <<-- tinggal kita masukkan saja nilainya
+masukkan nilai input:5                              <<-- masukkan nilainya seperti ini
+print(A)                                            <<-- perintah mengeluarkan output
+5                                                   <<-- hasil outputnya
